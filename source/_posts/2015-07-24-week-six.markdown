@@ -1,0 +1,97 @@
+---
+layout: post
+title: "Post-Drifty Visit and Code School Front End"
+date: 2015-07-24 16:30:00 -0500
+comments: true
+categories: YWeb
+---
+
+## YWeb, Cohort 2, Week 6
+
+Plenty to talk about this week. This week was largely a work-week as opposed
+to a work-learn week. Last Friday, we visited Drifty, which was pretty cool.
+This week, we continued working through Chapter 03 in EloquentJS, talked about
+taking care of ourselves and started working on our portfolios.
+
+### Drifty Visit
+
+The visit to Drifty was a pretty cool experience. We went to a tech talk about
+the Ionic Framework (a framework to help make hybrid web applications using
+the web stack) and Firebase (a super awesome tool that makes databases easy
+for web apps). I've played around with Ionic before and had a lot of fun
+with it, so I'm excited to check it out again. Firebase seems like it'll be
+really awesome to build complex web apps much quicker because I don't have
+to worry about a database as much.
+
+The Drifty Office was nice and spacious. There was a lot of natural lighting
+and it seems like a very chilled out place to work. It was refreshing to hear
+that Ionic was very flexible in terms of working remotely and working where
+you want, and I hope that some of the other tech companies we visit follow
+that same philosophy.
+
+### EloquentJS - Chapter 03
+
+Chapter 03 has been the toughest chapter yet for a couple of reasons. There
+are interesting, more complex topics like Recursion and Closure that take time
+and effort to wrap your head around. There were also a couple of issues with
+the workbook because exercises and tests take much longer to create than they
+take to do.
+
+It was an eye-opening week because we learned about all the different things
+that could happen when working on a deadline, as well as common mistakes that
+all developers make. We learned how to spot them and how to fix them, and I
+think it has made us all better programmers.
+
+### Code School - Front End Formations, CSS Cross Country
+
+This week in Code School, I completed the Front End Formations and CSS Cross
+Country courses. CSS Cross Country was helpful in terms of learning more
+advanced CSS topics such as clearing, pseudo-selectors, and CSS specificity.
+However, the cheesiness of many of the videos and the lesson clearly being of
+their earlier courses made it a less enjoyable ride. The information was
+important but there could definitely be better ways of teaching that
+knowledge. The Front End Formations course was very useful in terms of
+learning what's new in HTML 5 and CSS 3 and making sure that we know when and
+how to use newer elements and properties.
+
+### Mental Health & Meditating
+
+We talked about mental health and self care on Thursday. We learned that the
+number of people who suffer from mental health in Tech is pretty high and that
+it's very important that we take steps to make sure that we're taking care of
+ourselves and have a foundation to keep ourselves in check. We also talked
+about meditation and how it's a good way to relax and kind of re-center
+yourself. I mentioned the website [Calm.com](http://calm.com) in class. It's a
+pretty useful tool that lets you set a time, and either go through a guided
+meditation or listen to ambient noise to help you meditate.
+
+### Portfolio Beginnings
+
+After creating thumbnails and mockups for our portfolio last week, we started
+putting our HTML skills to the test. We talked about semantic HTML and started
+writing the Semantic HTML Code Skeleton for our portfolios. I'm pretty excited
+for when we go ahead and start editing the CSS of our pages and bring our
+portfolios to life.
+
+### FreeCodeCamp
+
+After a couple months of hiatus, I've finally got back on
+[FreeCodeCamp](http://freecodecamp.com). FreeCodeCamp is a free online boot
+camp that proposes to teach front-end web development concepts. After 800
+hours of practice with front-end skills, students jump into real-world
+projects with non-profits to hone and develop their skills while doing some
+good. A lot has changed since I was on it first and the community has only
+gotten more vibrant. I'm looking forward to continue working through it.
+
+### New Stress Release
+
+On Thursday, a group of my friends at YWeb and I started playing a strange
+derivate of Taps (think 'hot potato' with a ball, except it never stops unless
+someone drops it) during our breaks. It's been an incredibly calming exercise
+and it's a nice way to take a break and step away from the work and just have
+fun.
+
+Phew! That was a long post. I probably should have split it up, but here we
+are.
+
+That's it for this week. See you next time!
