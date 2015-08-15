@@ -6,6 +6,6 @@ comments: true
 categories:
 ---
 
-# Markdown GO!
+## Markdown GO!
 
 OMG! I have a *real* blog now!
