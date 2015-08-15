@@ -1,0 +1,66 @@
+---
+layout: post
+title: "The Basics of Design and Madison+UX Prep"
+date: 2015-07-09 16:30:00 -0500
+comments: true
+categories: YWeb
+---
+
+## YWeb, Cohort 2, Week 4
+
+Phew, what an interesting week. Between working out the origins of our group
+the {Curly Braces}, making silly (i.e. corny) science puns, learning the
+basics of design, and working through Project Euler, it was a busy week. Let's
+start at the beginning.
+
+### The {Curly Braces}
+
+The {Curly Braces} is the name of our squad in the YWebCA program. We've
+started working on the details and our mission, but so far it's just a bunch
+of us who get lunch together, make silly puns and jokes, and are working hard
+to get through the program. We're thinking of getting t-shirts that say:
+
+> At first there was **Φ**, then there was the **{Curly Braces}**
+
+We're still working on our design and stuff but we're growing pretty quick.
+We've got our own `#slack` group and the only way to go from here is up.
+
+### Design Workshop
+
+On Wednesday, we did a design workshop where we went over some of the basic elements and principles of design. We touched on a few topics, more than I could probably detail in this post, which is already getting pretty long, so I'll leave that for another day. In the meantime, I'll tease you with this table.
+
+| Elements | Principles  |
+|:--------:|:-----------:|
+| Line     | Balance     |
+| Shape    | Contrast    |
+| Form     | Focal Point |
+| Space    | Harmony     |
+| Color    | Movement    |
+| Value    | Repetition  |
+| Texture  | Proportion  |
+|          | Variety     |
+
+### Project Euler
+
+After finishing Part III of the *JavaScript Road Trip* on Code School, I
+wanted to work on something else. Nate gave me an assignment to build a prime
+number generator, which was a nice exercise. Afterwards, Annalise suggested
+that we check out Project Euler if we wanted some more challenges. I checked
+it out and it was pretty awesome. I finished the first two challenges pretty
+quickly, but then got stumped on the third, which had to do with finding the
+largest prime factorization of a very large number. I had a solution but
+because it was a brute-force solution and the number was so large, the
+computer had to churn to get the result. I wasn't that patient and so after
+picking Annalise's brain and struggling through the problem, I ended up trying
+a lazy solution to the problem, by finding the first pair of factors that I
+could, and finding the prime factorization of those. This also took a little
+while because one of the factors was very large, but smaller by at least an
+order of 10. When I finally got the result, I was so satisfied.
+
+As for the silly pun, think about this:
+
+> The Bible says *"Adam & Eve"*, not *"Atom & Electron"*
+
+Excuse the corniness.
+
+That's it for this week. See you next time!

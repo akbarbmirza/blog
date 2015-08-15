@@ -6,7 +6,7 @@ comments: true
 categories: YWeb
 ---
 
-## YWeb, Cohort 2, Week 1
+## YWeb, Cohort 2, Week 2
 
 Week 2 started off strong. We got new partners and moved around the space a little
 bit. We started learning some JavaScript and reading the Eloquent JavaScript

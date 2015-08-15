@@ -6,7 +6,7 @@ comments: true
 categories: YWeb
 ---
 
-## YWeb, Cohort 2, Week 1
+## YWeb, Cohort 2, Week 3
 
 This week was a trip, a road trip, that is. While the rest of class started
 Chapter 2 of Eloquent JavaScript this week, I started my journey on the
