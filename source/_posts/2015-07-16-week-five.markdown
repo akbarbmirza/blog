@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Post-Madison+UX and Chapter 03"
+date: 2015-07-16 16:30:00 -0500
+comments: true
+categories: YWeb
+---
+
+## YWeb, Cohort 2, Week 5
+
+This week we started hot off the heels of the Madison+UX Conference. We
+started the week with a class-wide Code Review where we went over the Chapter
+2 Exercises. We started Chapter 03 of JavaScript, and also started learning
+about HTML and CSS through Code School. I also kept working on Project Euler.
+
+### Madison+UX
+
+The Madison+UX Conference was a lot of fun. The swag was cool, but the
+presentations were even cooler. We got to listen to great talks about *Saving
+the Floppy Disk* and *Generation Z*. We also heard about different ways to
+think about User Experience, and Chris Coyier (of CodePen) gave a great
+presentation (with lots of flashy demos) on SVG. Being around so many
+different developers and designers was an amazing experience. I'm kind of sad
+to hear that this is the last Madison+UX conference, but I'm sure the
+community will continue to embrace the spirit of the conference in future
+events.
+
+### Code Review
+
+This week, we saw what Code Review actually looks like. We got some hands-on
+experience with Code Review by going over the Chapter 02 Workbook for Eloquent
+JavaScript. It was interesting to see all the different ways we solved our
+problems. Although the process of reviewing code was a bit clunky, I learned a
+lot during the review and I'm sure the other students have as well.
+
+### EloquentJS Chapter 03
+
+We went over Chapter 03 of EloquentJS this week, which covers functions in
+JavaScript. I'm pretty familiar with functions in JavaScript and other
+languages, but the one concept that I always have trouble wrapping my head
+around are closures. I'm familiar with some of the concepts and benefits of
+them, including isolating an environment and being able to curry or partially
+curry a function, but I think I'd need to see several more real-world examples
+of closures to grasp them. If anyone has some good suggestions for reading on
+Closures, I'd be interested in hearing it.
+
+### Project Euler
+
+I don't have much of a status update about Project Euler this week. I worked
+on the Smallest Multiple problem on Project Euler, but I have to go back to
+the drawing board and clear up the way I'm approaching the problem. I'll look
+at it more over the weekend and next week and see how that goes.
+
+### Visit to Drifty
+
+We'll be visiting Drifty today. I'm pretty excited just because I've seen some
+of their workshops on Ionic and their use of Angular.JS to build hybrid web
+apps. In fact, I even have some experience with the Ionic framework as I did
+some (very basic) work with it while I was working part-time at MobileIgniter.
+I look forward to the demos that they'll be doing and seeing what the culture
+at Drifty is like. I think it'll be a good way to see what tech culture is
+like in Madison.
+
+That's it for this week. See you next time!
