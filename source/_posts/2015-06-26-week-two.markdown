@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Week Two"
+date: 2015-06-26 16:30:00 -0500
+comments: true
+categories: YWeb
+---
+
+## YWeb, Cohort 2, Week 1
+
+Week 2 started off strong. We got new partners and moved around the space a little
+bit. We started learning some JavaScript and reading the Eloquent JavaScript
+textbook and taking care of some administrative tasks. During the first half of the
+week, I activated my Code School subscription and started going through the
+JavaScript Road Trip. During the second half, I worked with Latisha to do the
+JavaScript exercises in the EloquentJS Workbook.
+
+I was pretty bored during the first half of the week and so I asked Annalise and
+Nate if they had any tasks for me. After going through the exercises for the
+EloquentJS Workbook as a guinea pig, I found myself bored again. I checked my email
+and I found an invite to the Code School team for The YWeb Career Academy. I joined
+and was instantly excited by the fact that there's so much to learn on Code School.
+
+I had tried Code School before when I was learning jQuery, so I was excited that I
+had access to a premium subscription. I also saw that there was a team leaderboard,
+and since I'm a competitive gamer, I couldn't resist wanting to earn points and
+badges to move up in the leaderboard. During the week, I went through JavaScript
+Road Trip, Part I and II. I didn't enjoy JS Road Trip as much as I've enjoyed Code
+School's other courses in the past, but the promise of points and badges pushed me
+through. My goal for next week is to finish JS Road Trip, Part III and to continue
+exploring some other facets of code school.
+
+For the second half of the week, I pair programmed with my new partner, Latisha.
+It's been a tough week because we started so much new material. Latisha was strong
+and persistent and she wouldn't give up, so we got along pretty well. We went over
+the Chapter 01 Exercises in the Eloquent JavaScript workbook and sped right through
+it. We just started the Chapter 02 Exercises yesterday, and so far, we've been hard
+at work at it. It looks like Latisha and I have a bit of a head start compared to the
+rest of the class. We'll probably finish it by the end of next week if progress keeps
+up.
+
+Oh, I forgot, Latisha told me on our first day that she thought I looked like one of
+the Jonas Brothers, and so my tablemates and I looked up the Jonas Brothers to see
+which one. I was confused, but also flattered, when we found out that Latisha thought
+I looked like Nick Jonas. It's become a bit of an inside joke, and she now calls me
+Jonas instead of Akbar. Guess that's one of my new nicknames :P.
+
+Overall, Week 2 was intense and a lot of fun. The pace is starting to pick up and I'm
+excited to dive right into some more code. I found out about some interesting places
+to check out like the American Family Dream Bank that's located downtown. Note to
+Self: Visit the Dream Bank!
+
+That's all I can remember for this week. See you next time!
