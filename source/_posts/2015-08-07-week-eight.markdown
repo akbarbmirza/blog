@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "jQuery & Portfolio Work"
-date: 2015-07-24 16:30:00 -0500
+date: 2015-08-07 16:30:00 -0500
 comments: true
 categories: YWeb
 ---
