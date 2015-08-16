@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://akbarbmirza.github.io/blog/atom.xml" rel="self"/>
   <link href="http://akbarbmirza.github.io/blog/"/>
-  <updated>2015-08-15T20:35:13-05:00</updated>
+  <updated>2015-08-15T21:17:24-05:00</updated>
   <id>http://akbarbmirza.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Week Nine]]></title>
+    <link href="http://akbarbmirza.github.io/blog/blog/2015/08/14/week-nine/"/>
+    <updated>2015-08-14T16:30:00-05:00</updated>
+    <id>http://akbarbmirza.github.io/blog/blog/2015/08/14/week-nine</id>
+    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 9</h2>
+
+<p>Lots of stuff this week. YWeb has moved, and we&rsquo;re now working out of the
+Adorable.io office. Zendesk was pretty cool last weekend. We&rsquo;ve started fleshing
+out our jQuery plug-ins, and I had an adventure making a choose your own
+adventure game. We ended the week with Mock Interviews</p>
+
+<h3>New Office - Adorable.io</h3>
+
+<h3>Post-Zendesk Impressions</h3>
+
+<h3>Octopress Blog</h3>
+
+<h3>Mock Interviews</h3>
+
+<h3>jQuery Plug-In</h3>
+
+<h3>Choose Your Own Adventure Card Game</h3>
+
+<p>That&rsquo;s it for this week. See you next time!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Yweb | My Octopress Blog]]></title>
   <link href="http://akbarbmirza.github.io/blog/blog/categories/yweb/atom.xml" rel="self"/>
   <link href="http://akbarbmirza.github.io/blog/"/>
-  <updated>2015-08-15T20:35:13-05:00</updated>
+  <updated>2015-08-15T21:17:24-05:00</updated>
   <id>http://akbarbmirza.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Week Nine]]></title>
+    <link href="http://akbarbmirza.github.io/blog/blog/2015/08/14/week-nine/"/>
+    <updated>2015-08-14T16:30:00-05:00</updated>
+    <id>http://akbarbmirza.github.io/blog/blog/2015/08/14/week-nine</id>
+    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 9</h2>
+
+<p>Lots of stuff this week. YWeb has moved, and we&rsquo;re now working out of the
+Adorable.io office. Zendesk was pretty cool last weekend. We&rsquo;ve started fleshing
+out our jQuery plug-ins, and I had an adventure making a choose your own
+adventure game. We ended the week with Mock Interviews</p>
+
+<h3>New Office - Adorable.io</h3>
+
+<h3>Post-Zendesk Impressions</h3>
+
+<h3>Octopress Blog</h3>
+
+<h3>Mock Interviews</h3>
+
+<h3>jQuery Plug-In</h3>
+
+<h3>Choose Your Own Adventure Card Game</h3>
+
+<p>That&rsquo;s it for this week. See you next time!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[jQuery & Portfolio Work]]></title>
@@ -275,105 +303,6 @@ some (very basic) work with it while I was working part-time at MobileIgniter.
 I look forward to the demos that they&rsquo;ll be doing and seeing what the culture
 at Drifty is like. I think it&rsquo;ll be a good way to see what tech culture is
 like in Madison.</p>
-
-<p>That&rsquo;s it for this week. See you next time!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Basics of Design and Madison+UX Prep]]></title>
-    <link href="http://akbarbmirza.github.io/blog/blog/2015/07/09/week-four/"/>
-    <updated>2015-07-09T16:30:00-05:00</updated>
-    <id>http://akbarbmirza.github.io/blog/blog/2015/07/09/week-four</id>
-    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 4</h2>
-
-<p>Phew, what an interesting week. Between working out the origins of our group
-the {Curly Braces}, making silly (i.e. corny) science puns, learning the
-basics of design, and working through Project Euler, it was a busy week. Let&rsquo;s
-start at the beginning.</p>
-
-<h3>The {Curly Braces}</h3>
-
-<p>The {Curly Braces} is the name of our squad in the YWebCA program. We&rsquo;ve
-started working on the details and our mission, but so far it&rsquo;s just a bunch
-of us who get lunch together, make silly puns and jokes, and are working hard
-to get through the program. We&rsquo;re thinking of getting t-shirts that say:</p>
-
-<blockquote><p>At first there was <strong>Φ</strong>, then there was the <strong>{Curly Braces}</strong></p></blockquote>
-
-<p>We&rsquo;re still working on our design and stuff but we&rsquo;re growing pretty quick.
-We&rsquo;ve got our own <code>#slack</code> group and the only way to go from here is up.</p>
-
-<h3>Design Workshop</h3>
-
-<p>On Wednesday, we did a design workshop where we went over some of the basic elements and principles of design. We touched on a few topics, more than I could probably detail in this post, which is already getting pretty long, so I&rsquo;ll leave that for another day. In the meantime, I&rsquo;ll tease you with this table.</p>
-
-<table>
-<thead>
-<tr>
-<th style="text-align:center;"> Elements </th>
-<th style="text-align:center;"> Principles  </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center;"> Line     </td>
-<td style="text-align:center;"> Balance     </td>
-</tr>
-<tr>
-<td style="text-align:center;"> Shape    </td>
-<td style="text-align:center;"> Contrast    </td>
-</tr>
-<tr>
-<td style="text-align:center;"> Form     </td>
-<td style="text-align:center;"> Focal Point </td>
-</tr>
-<tr>
-<td style="text-align:center;"> Space    </td>
-<td style="text-align:center;"> Harmony     </td>
-</tr>
-<tr>
-<td style="text-align:center;"> Color    </td>
-<td style="text-align:center;"> Movement    </td>
-</tr>
-<tr>
-<td style="text-align:center;"> Value    </td>
-<td style="text-align:center;"> Repetition  </td>
-</tr>
-<tr>
-<td style="text-align:center;"> Texture  </td>
-<td style="text-align:center;"> Proportion  </td>
-</tr>
-<tr>
-<td style="text-align:center;">          </td>
-<td style="text-align:center;"> Variety     </td>
-</tr>
-</tbody>
-</table>
-
-
-<h3>Project Euler</h3>
-
-<p>After finishing Part III of the <em>JavaScript Road Trip</em> on Code School, I
-wanted to work on something else. Nate gave me an assignment to build a prime
-number generator, which was a nice exercise. Afterwards, Annalise suggested
-that we check out Project Euler if we wanted some more challenges. I checked
-it out and it was pretty awesome. I finished the first two challenges pretty
-quickly, but then got stumped on the third, which had to do with finding the
-largest prime factorization of a very large number. I had a solution but
-because it was a brute-force solution and the number was so large, the
-computer had to churn to get the result. I wasn&rsquo;t that patient and so after
-picking Annalise&rsquo;s brain and struggling through the problem, I ended up trying
-a lazy solution to the problem, by finding the first pair of factors that I
-could, and finding the prime factorization of those. This also took a little
-while because one of the factors was very large, but smaller by at least an
-order of 10. When I finally got the result, I was so satisfied.</p>
-
-<p>As for the silly pun, think about this:</p>
-
-<blockquote><p>The Bible says <em>&ldquo;Adam &amp; Eve&rdquo;</em>, not <em>&ldquo;Atom &amp; Electron&rdquo;</em></p></blockquote>
-
-<p>Excuse the corniness.</p>
 
 <p>That&rsquo;s it for this week. See you next time!</p>
 ]]></content>
