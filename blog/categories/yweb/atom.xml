@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://akbarbmirza.github.io/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Yweb | My Octopress Blog]]></title>
+  <link href="http://akbarbmirza.github.io/blog/blog/categories/yweb/atom.xml" rel="self"/>
   <link href="http://akbarbmirza.github.io/blog/"/>
   <updated>2015-08-15T20:32:19-05:00</updated>
   <id>http://akbarbmirza.github.io/blog/</id>
@@ -12,17 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://akbarbmirza.github.io/blog/blog/2015/08/10/first-post/"/>
-    <updated>2015-08-10T16:41:00-05:00</updated>
-    <id>http://akbarbmirza.github.io/blog/blog/2015/08/10/first-post</id>
-    <content type="html"><![CDATA[<h2>Markdown GO!</h2>
-
-<p>OMG! I have a <em>real</em> blog now!</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Post-Drifty Visit and Code School Front End]]></title>
@@ -385,129 +374,6 @@ order of 10. When I finally got the result, I was so satisfied.</p>
 <blockquote><p>The Bible says <em>&ldquo;Adam &amp; Eve&rdquo;</em>, not <em>&ldquo;Atom &amp; Electron&rdquo;</em></p></blockquote>
 
 <p>Excuse the corniness.</p>
-
-<p>That&rsquo;s it for this week. See you next time!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The JavaScript Road Trip]]></title>
-    <link href="http://akbarbmirza.github.io/blog/blog/2015/07/03/week-three/"/>
-    <updated>2015-07-03T16:30:00-05:00</updated>
-    <id>http://akbarbmirza.github.io/blog/blog/2015/07/03/week-three</id>
-    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 3</h2>
-
-<p>This week was a trip, a road trip, that is. While the rest of class started
-Chapter 2 of Eloquent JavaScript this week, I started my journey on the
-JavaScript Roadtrip courses on Code School. The journey took me through the
-basics of JavaScript Syntax as well as some of the more intermediate topics
-like function expressions, closures, hoisting, and object-oriented programming
-in JavaScript (including the use of prototypes). Part 3 of the Road Trip is the
-most dense of them all, and the longer lecture videos are going to take some
-getting used to, but overall I&rsquo;m progressing well. I should be done with the
-third and last section of JavaScript Road Trip early next week.</p>
-
-<p>I&rsquo;m interested to learn if I have a new partner this week, and who it&rsquo;s going
-to be since we&rsquo;re trying out new kinds of pairs. There will be pairs that act
-like pair programmers, and pairs that act as a couple of independent learners
-that bounce questions and ideas off of each other. Personally, I&rsquo;m comfortable
-doing either, and since there was a deficit in the pair programming side, I&rsquo;ve
-been assigned to that group. It&rsquo;ll be a great way to reinforce my programming
-skills through teaching as well as getting to know my classmates better.</p>
-
-<p>We ended the week with a Project Management workshop. We learned about SCRUM
-and some other project management techniques earlier this week and on Friday,
-we put those skills into use. We had two teams working on a fake project so
-that we could learn how to apply SCRUM and manage a product. My team worked on
-a &ldquo;Tindr for Dogs&rdquo; concept that was a lot of fun to plan out. It gave us a
-taste of the struggles of figuring out what a client needs and the back and
-forth of getting to something that works. All in all, it was a fun exercise
-that taught us a lot and helped improve some of our teamwork.</p>
-
-<p>That&rsquo;s it for this week. See you next time!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Week Two]]></title>
-    <link href="http://akbarbmirza.github.io/blog/blog/2015/06/26/week-two/"/>
-    <updated>2015-06-26T16:30:00-05:00</updated>
-    <id>http://akbarbmirza.github.io/blog/blog/2015/06/26/week-two</id>
-    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 2</h2>
-
-<p>Week 2 started off strong. We got new partners and moved around the space a little
-bit. We started learning some JavaScript and reading the Eloquent JavaScript
-textbook and taking care of some administrative tasks. During the first half of the
-week, I activated my Code School subscription and started going through the
-JavaScript Road Trip. During the second half, I worked with Latisha to do the
-JavaScript exercises in the EloquentJS Workbook.</p>
-
-<p>I was pretty bored during the first half of the week and so I asked Annalise and
-Nate if they had any tasks for me. After going through the exercises for the
-EloquentJS Workbook as a guinea pig, I found myself bored again. I checked my email
-and I found an invite to the Code School team for The YWeb Career Academy. I joined
-and was instantly excited by the fact that there&rsquo;s so much to learn on Code School.</p>
-
-<p>I had tried Code School before when I was learning jQuery, so I was excited that I
-had access to a premium subscription. I also saw that there was a team leaderboard,
-and since I&rsquo;m a competitive gamer, I couldn&rsquo;t resist wanting to earn points and
-badges to move up in the leaderboard. During the week, I went through JavaScript
-Road Trip, Part I and II. I didn&rsquo;t enjoy JS Road Trip as much as I&rsquo;ve enjoyed Code
-School&rsquo;s other courses in the past, but the promise of points and badges pushed me
-through. My goal for next week is to finish JS Road Trip, Part III and to continue
-exploring some other facets of code school.</p>
-
-<p>For the second half of the week, I pair programmed with my new partner, Latisha.
-It&rsquo;s been a tough week because we started so much new material. Latisha was strong
-and persistent and she wouldn&rsquo;t give up, so we got along pretty well. We went over
-the Chapter 01 Exercises in the Eloquent JavaScript workbook and sped right through
-it. We just started the Chapter 02 Exercises yesterday, and so far, we&rsquo;ve been hard
-at work at it. It looks like Latisha and I have a bit of a head start compared to the
-rest of the class. We&rsquo;ll probably finish it by the end of next week if progress keeps
-up.</p>
-
-<p>Oh, I forgot, Latisha told me on our first day that she thought I looked like one of
-the Jonas Brothers, and so my tablemates and I looked up the Jonas Brothers to see
-which one. I was confused, but also flattered, when we found out that Latisha thought
-I looked like Nick Jonas. It&rsquo;s become a bit of an inside joke, and she now calls me
-Jonas instead of Akbar. Guess that&rsquo;s one of my new nicknames :P.</p>
-
-<p>Overall, Week 2 was intense and a lot of fun. The pace is starting to pick up and I&rsquo;m
-excited to dive right into some more code. I found out about some interesting places
-to check out like the American Family Dream Bank that&rsquo;s located downtown. Note to
-Self: Visit the Dream Bank!</p>
-
-<p>That&rsquo;s all I can remember for this week. See you next time!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome to My Blog]]></title>
-    <link href="http://akbarbmirza.github.io/blog/blog/2015/06/19/welcome-to-my-blog/"/>
-    <updated>2015-06-19T16:30:00-05:00</updated>
-    <id>http://akbarbmirza.github.io/blog/blog/2015/06/19/welcome-to-my-blog</id>
-    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 1</h2>
-
-<p>It&rsquo;s been in an interesting week. This was the first week of the YWeb Career
-Academy program. It&rsquo;s been really exciting and I&rsquo;ve met so many different kinds
-of people here hoping to learn web development. It&rsquo;s inspiring to hear the
-stories of the people around me and their motivations for learning how to code.
-This will be the first post in a long line of posts about the program and
-my thoughts.</p>
-
-<p>While the roll out of the laptops wasn&rsquo;t as smooth as we hoped, we were all
-eventually able to start. We talked about the Terminal (Shell) and basic
-commands there, as well as Markdown and the basics of using Git and Github. I
-learned a lot and was able to offer my help to the students who have less
-experience and do my best to help explain some of the new concepts that they&rsquo;re
-facing. It&rsquo;s also a little difficult because the backgrounds and prior
-experience with computers is so diverse.</p>
-
-<p>I think something that would help make the YWeb program more successful, is some
-form of pre-work that ensures that all the students have the same base computer
-skills (and if they don&rsquo;t, helps them get them so that they can follow along).
-Resources like these are insanely valuable, and incredibly important, especially
-when coding.</p>
 
 <p>That&rsquo;s it for this week. See you next time!</p>
 ]]></content>
