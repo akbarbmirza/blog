@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Yweb | My Octopress Blog]]></title>
   <link href="http://akbarbmirza.github.io/blog/blog/categories/yweb/atom.xml" rel="self"/>
   <link href="http://akbarbmirza.github.io/blog/"/>
-  <updated>2015-08-15T20:32:19-05:00</updated>
+  <updated>2015-08-15T20:34:18-05:00</updated>
   <id>http://akbarbmirza.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,112 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[jQuery & Portfolio Work]]></title>
+    <link href="http://akbarbmirza.github.io/blog/blog/2015/08/07/week-eight/"/>
+    <updated>2015-08-07T16:30:00-05:00</updated>
+    <id>http://akbarbmirza.github.io/blog/blog/2015/08/07/week-eight</id>
+    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 8</h2>
+
+<p>It was an interesting week. We continued Chapter 04 in Eloquent JavaScript,
+tinkered with jQuery and worked on the final copy and artwork for our
+portfolios. We also started our jQuery plugin projects and figuring out what
+we&rsquo;re going to do with that.</p>
+
+<h3>EloquentJS - Chapter 04</h3>
+
+<p>Chapter 04 of Eloquent JavaScript has been going pretty smoothly. We initially
+ran into some bugs with the Chapter 04 exercises and test files overwriting
+those of Chapter 03, but those were resolved pretty quickly. The exercises
+themselves have also been pretty interesting. The ones that gave me a little
+bit of trouble were the ones having to do with Double Linked Lists. One of the
+problems in my approach, that I learned the hard way, is that JavaScript
+doesn&rsquo;t let you pass a whole object container by reference. In other words, I
+couldn&rsquo;t change the object I passed, whole-hog while in a function. To work
+around that, I had to do a little bit of extra work creating a buffer and
+moving things around in my object, but it was definitely confusing at first.</p>
+
+<h3>Code School - Try jQuery &amp; JavaScript Best Practices</h3>
+
+<p>We started talking about jQuery this week and I&rsquo;m really excited for it. I&rsquo;ve
+gone through Code School&rsquo;s Try jQuery course in the past and I really enjoyed
+it, so I was glad that the other students were able to experience it. In the
+meantime, I was working on the JavaScript Best Practices course which taught
+me a bit about some of the things that happened behind the scenes in
+JavaScript. It also showed me how to make simple optimizations when it comes
+to loops.</p>
+
+<h3>Portfolio Work - Content</h3>
+
+<p>Working on the portfolio this week was tough. Who knew that writing content
+was so tough? It&rsquo;s tough figuring out exactly what I want to say on the
+website that other people will see me on. Not to mention figuring out what to
+do with the layout elements that I had previously mocked up and created on my
+HTML. I&rsquo;m starting to feel better now that I&rsquo;m looking at it more like a Work
+in Progress than the final set-in-stone edition, but it&rsquo;s still a little bit
+nerve-wracking. I&rsquo;ve added a couple of images and had fun creating flat
+buttons for my social media connection links. I&rsquo;ll continue to work on it
+throughout the rest of the program and my career, but I feel like it has a
+good foundation right now.</p>
+
+<h3>Zendesk</h3>
+
+<p>We&rsquo;re going to go visit Zendesk today, so I&rsquo;m pretty excited about that. I
+don&rsquo;t know much about them, but I have experienced their product once through
+the Customer Service at OnePlus One. It&rsquo;ll be interesting to hear from them
+and see what other tech companies in Madison are like.</p>
+
+<p>That&rsquo;s it for this week. See you next time!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[CSS Zen Garden and Advanced Selectors]]></title>
+    <link href="http://akbarbmirza.github.io/blog/blog/2015/07/31/week-seven/"/>
+    <updated>2015-07-31T16:30:00-05:00</updated>
+    <id>http://akbarbmirza.github.io/blog/blog/2015/07/31/week-seven</id>
+    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 7</h2>
+
+<p>It was an interesting week. We started Chapter 4 in Eloquent JavaScript,
+tinkered with CSS Zen Garden and worked on the CSS for our portfolios. We also
+started furthering our CSS skills with the Advanced Selectors project.</p>
+
+<h3>EloquentJS - Chapter 04</h3>
+
+<p>Chapter 04 of Eloquent JavaScript was very tough. We learned about Objects and
+Arrays, which are awesome. The examples in the book, however, used a lot of
+Math that seemed like they were more there to show off the author&rsquo;s knowledge
+rather than to explain the concepts illustrated in the chapter. The end of
+chapter exercises were still pretty interesting to work with.</p>
+
+<h3>CSS Zen Garden</h3>
+
+<p>Working with the CSS Zen Garden was kind of fun. The creator had made some
+interesting choices with the way he structured the HTML so some of our style
+decisions were made more difficult because of it. All in all though, it was a
+great example of why it&rsquo;s important and even convenient to separate your
+content and your design/layout. Floating seems to be one of the iffier
+concepts to wrap our heads around as it doesn&rsquo;t always work as expected.</p>
+
+<h3>Portfolio Work</h3>
+
+<p>We continued to work on our portfolios by fleshing out our CSS skeletons for
+our personal portfolios. In order to figure out some elements of my layout, I
+experimented with CSS Flexbox. Flexbox is intriguing by itself, and being able
+to use it as a grid layout is really cool. It&rsquo;s still a little confusing, but
+I&rsquo;m getting better at understanding it the more I use it.</p>
+
+<h3>Advanced Selectors Project</h3>
+
+<p>I had a lot of fun with the advanced selectors project, but I can&rsquo;t talk about
+it yet. I&rsquo;ll be showing off a demo next week, and I think it&rsquo;ll be pretty
+exciting! One thing I learned during the project are that <em>keyframes are
+awesome!</em>.</p>
+
+<p>That&rsquo;s it for this week. See you next time!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Post-Drifty Visit and Code School Front End]]></title>
@@ -105,112 +211,6 @@ fun.</p>
 
 <p>Phew! That was a long post. I probably should have split it up, but here we
 are.</p>
-
-<p>That&rsquo;s it for this week. See you next time!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CSS Zen Garden and Advanced Selectors]]></title>
-    <link href="http://akbarbmirza.github.io/blog/blog/2015/07/24/week-seven/"/>
-    <updated>2015-07-24T16:30:00-05:00</updated>
-    <id>http://akbarbmirza.github.io/blog/blog/2015/07/24/week-seven</id>
-    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 7</h2>
-
-<p>It was an interesting week. We started Chapter 4 in Eloquent JavaScript,
-tinkered with CSS Zen Garden and worked on the CSS for our portfolios. We also
-started furthering our CSS skills with the Advanced Selectors project.</p>
-
-<h3>EloquentJS - Chapter 04</h3>
-
-<p>Chapter 04 of Eloquent JavaScript was very tough. We learned about Objects and
-Arrays, which are awesome. The examples in the book, however, used a lot of
-Math that seemed like they were more there to show off the author&rsquo;s knowledge
-rather than to explain the concepts illustrated in the chapter. The end of
-chapter exercises were still pretty interesting to work with.</p>
-
-<h3>CSS Zen Garden</h3>
-
-<p>Working with the CSS Zen Garden was kind of fun. The creator had made some
-interesting choices with the way he structured the HTML so some of our style
-decisions were made more difficult because of it. All in all though, it was a
-great example of why it&rsquo;s important and even convenient to separate your
-content and your design/layout. Floating seems to be one of the iffier
-concepts to wrap our heads around as it doesn&rsquo;t always work as expected.</p>
-
-<h3>Portfolio Work</h3>
-
-<p>We continued to work on our portfolios by fleshing out our CSS skeletons for
-our personal portfolios. In order to figure out some elements of my layout, I
-experimented with CSS Flexbox. Flexbox is intriguing by itself, and being able
-to use it as a grid layout is really cool. It&rsquo;s still a little confusing, but
-I&rsquo;m getting better at understanding it the more I use it.</p>
-
-<h3>Advanced Selectors Project</h3>
-
-<p>I had a lot of fun with the advanced selectors project, but I can&rsquo;t talk about
-it yet. I&rsquo;ll be showing off a demo next week, and I think it&rsquo;ll be pretty
-exciting! One thing I learned during the project are that <em>keyframes are
-awesome!</em>.</p>
-
-<p>That&rsquo;s it for this week. See you next time!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[jQuery & Portfolio Work]]></title>
-    <link href="http://akbarbmirza.github.io/blog/blog/2015/07/24/week-eight/"/>
-    <updated>2015-07-24T16:30:00-05:00</updated>
-    <id>http://akbarbmirza.github.io/blog/blog/2015/07/24/week-eight</id>
-    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 8</h2>
-
-<p>It was an interesting week. We continued Chapter 04 in Eloquent JavaScript,
-tinkered with jQuery and worked on the final copy and artwork for our
-portfolios. We also started our jQuery plugin projects and figuring out what
-we&rsquo;re going to do with that.</p>
-
-<h3>EloquentJS - Chapter 04</h3>
-
-<p>Chapter 04 of Eloquent JavaScript has been going pretty smoothly. We initially
-ran into some bugs with the Chapter 04 exercises and test files overwriting
-those of Chapter 03, but those were resolved pretty quickly. The exercises
-themselves have also been pretty interesting. The ones that gave me a little
-bit of trouble were the ones having to do with Double Linked Lists. One of the
-problems in my approach, that I learned the hard way, is that JavaScript
-doesn&rsquo;t let you pass a whole object container by reference. In other words, I
-couldn&rsquo;t change the object I passed, whole-hog while in a function. To work
-around that, I had to do a little bit of extra work creating a buffer and
-moving things around in my object, but it was definitely confusing at first.</p>
-
-<h3>Code School - Try jQuery &amp; JavaScript Best Practices</h3>
-
-<p>We started talking about jQuery this week and I&rsquo;m really excited for it. I&rsquo;ve
-gone through Code School&rsquo;s Try jQuery course in the past and I really enjoyed
-it, so I was glad that the other students were able to experience it. In the
-meantime, I was working on the JavaScript Best Practices course which taught
-me a bit about some of the things that happened behind the scenes in
-JavaScript. It also showed me how to make simple optimizations when it comes
-to loops.</p>
-
-<h3>Portfolio Work - Content</h3>
-
-<p>Working on the portfolio this week was tough. Who knew that writing content
-was so tough? It&rsquo;s tough figuring out exactly what I want to say on the
-website that other people will see me on. Not to mention figuring out what to
-do with the layout elements that I had previously mocked up and created on my
-HTML. I&rsquo;m starting to feel better now that I&rsquo;m looking at it more like a Work
-in Progress than the final set-in-stone edition, but it&rsquo;s still a little bit
-nerve-wracking. I&rsquo;ve added a couple of images and had fun creating flat
-buttons for my social media connection links. I&rsquo;ll continue to work on it
-throughout the rest of the program and my career, but I feel like it has a
-good foundation right now.</p>
-
-<h3>Zendesk</h3>
-
-<p>We&rsquo;re going to go visit Zendesk today, so I&rsquo;m pretty excited about that. I
-don&rsquo;t know much about them, but I have experienced their product once through
-the Customer Service at OnePlus One. It&rsquo;ll be interesting to hear from them
-and see what other tech companies in Madison are like.</p>
 
 <p>That&rsquo;s it for this week. See you next time!</p>
 ]]></content>
