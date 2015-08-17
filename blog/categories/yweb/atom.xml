@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Yweb | My Octopress Blog]]></title>
   <link href="http://akbarbmirza.github.io/blog/blog/categories/yweb/atom.xml" rel="self"/>
   <link href="http://akbarbmirza.github.io/blog/"/>
-  <updated>2015-08-15T21:17:24-05:00</updated>
+  <updated>2015-08-17T08:42:46-05:00</updated>
   <id>http://akbarbmirza.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -23,19 +23,80 @@
 <p>Lots of stuff this week. YWeb has moved, and we&rsquo;re now working out of the
 Adorable.io office. Zendesk was pretty cool last weekend. We&rsquo;ve started fleshing
 out our jQuery plug-ins, and I had an adventure making a choose your own
-adventure game. We ended the week with Mock Interviews</p>
+adventure game. We ended the week with Mock Interviews that were extremely
+valuable and very insightful.</p>
 
 <h3>New Office - Adorable.io</h3>
 
+<p>This week, we moved the class to <a href="http://adorable.io">Adorable.io</a> Office on
+123 E Main St (isn&rsquo;t the address just wonderful?). Personally, I like this space
+a lot and it definitely makes me feel like I&rsquo;m more immersed in a tech company.
+It&rsquo;s also really awesome that we have experienced developers and designers from
+Adorable that can help us out when we need it. The location in Downtown Madison
+has also made it easier for us to get speakers and other tutors to come visit
+our program. One of my favorite things about the move is being downtown and
+having the food options on State Street.</p>
+
 <h3>Post-Zendesk Impressions</h3>
+
+<p>The <a href="http://zendesk.com">Zendesk</a> office visit was pretty interesting. The
+atmosphere in their office was very zen (excuse the pun). The main lobby had a
+huge wall of moss that was really surprising. It left the office feeling very
+earthy and smelling very fresh. The visit at Zendesk was very cool because a lot
+of the people that we met didn&rsquo;t start out in the tech industry. In that way,
+many of the YWeb students who are transitioning from other industries found it
+very relatable. It was clear that Zendesk cared about their employees and that
+they made it a priority to help their talent grow and learn.</p>
 
 <h3>Octopress Blog</h3>
 
+<p>We installed <a href="http://octopress.org/">Octopress</a> this week, and are starting to
+move our old posts to our new octopress blogs. Octopress uses a format called
+YAML to provide metadata for our blog posts. Being able to make a full-fledged
+blog using GitHub Pages is very cool. Now I just need to figure out how to style
+Octopress to fit in with the rest of my portfolio.</p>
+
+<h3>jQuery Plug-Ins</h3>
+
+<p>Now that we&rsquo;ve started jQuery and have gotten a bit of a handle on it, we&rsquo;ve
+started our jQuery plug-ins project.</p>
+
+<h4>Image Slider Box</h4>
+
+<p>For my plug-in, I created an image-slider
+box. Essentially, it lets you add an image to your page, and some information
+for a caption, like a title and a description. When it renders in the browser,
+you&rsquo;ll see your image with a title on the bottom edge. When you click on the
+image, the title will slide up and your description will appear overlayed on top
+of the image you clicked on. It was a pretty simple plug-in, and you can check
+out the
+<a href="https://github.com/akbarbmirza/img-slider-box">image-slider-box on GitHub</a>.</p>
+
+<h4>Choose Your Own Adventure Card Game</h4>
+
+<p>I also created another cool thing with jQuery, although I&rsquo;m not sure it could
+exactly be used as a plug-in. I&rsquo;m a fan of card-based layouts, so I did some
+experimenting with HTML and CSS and created a &lsquo;card&rsquo; in HTML. Afterwards, I
+tweaked the visuals to something I was happy with. Essentially, I was trying to
+build a choose your own adventure game with a card layout. In practice, it would
+go like this: the user is presented with a card. The card has a title, a short
+prompt (or bit of a story), and some choices (as buttons). When they make a
+choice, the game will dynamically create a new card with another prompt and more
+choices based on the action that they took. It&rsquo;s still a work in progress, but
+I&rsquo;m pretty excited about how far I can take the idea.</p>
+
 <h3>Mock Interviews</h3>
 
-<h3>jQuery Plug-In</h3>
-
-<h3>Choose Your Own Adventure Card Game</h3>
+<p>We ended the week with Mock Interviews. We had a couple round of one-on-one
+interviews, a lunch interview, and a final panel interview. The experience was
+very valuable and unique. <a href="https://www.whazzmaster.com/">Zach Moneypenny</a> did a
+great job organizing the interviews. The mix of behavioral and technical
+questions I was asked was very helpful in learning about what usually goes on
+during interviews with tech companies. Overall, I think I did well and I will
+continue to work on my interviewing and resume writing skills. I am really
+grateful for the feedback that our interviewers gave us and the fact that they
+took the time out of their days to work with the students at YWeb, so shoutout
+to them.</p>
 
 <p>That&rsquo;s it for this week. See you next time!</p>
 ]]></content>
