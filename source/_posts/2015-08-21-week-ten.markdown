@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Week Ten"
+date: 2015-08-21 16:30:00 -0500
+comments: true
+categories: YWeb
+---
+
+## YWeb, Cohort 2, Week 10
+
+It was an interesting week. The class was split up into two groups so that we
+could work on our group projects. On the first day, we chose our projects and
+started mocking them up. We also continued to work on our individual projects,
+which for me meant wrapping up my jQuery Plug-In as well as refining my
+[sonic-selectors](https://github.com/akbarbmirza/advanced-selectors) project.
+This week was also a chance for me to wrap up loose ends before I moved back to
+New York, and then getting settled once I made it.
+
+### Group Capstone
+
+Last week, we submitted our votes for who the team captains would be for our
+group project. On Monday, we were told the results. The team captains were Kevin
+Fahy and Akbar Mirza (me). It was exciting to be chosen, but Kevin and I were
+both a little sad that we weren't able to work together on the group capstone.
+After choosing our teams, we started to figure out what we're going to work on.
+My group will be working on a fleshed out choose-your-own-adventure experience
+for the web. We're hoping to have beautiful illustrations, animations, and other
+media elements like sound to make the experience more immersive.
+
+We've split up the project into a few things:
+
+- Story (the story that the user will be going through, as well as the different
+  options that they'll have available to them).
+- Backgrounds (to set the stage and part of the visual design)
+- Sprites (for the characters that will be involved)
+- Frontend Logic (to glue the content together and make it live on the web)
+
+During the first week, we've been working a lot on fleshing out the story and
+the basic foundation of the web app. Our talented writers have gotten us very
+far into the story phase and we are getting closer to finishing the story
+writing phase.
+
+I've been working with [Chris Coyier](http://chriscoyier.net/) to mock up what
+the actual web app will look like as well as writing a couple of proof of
+concept code snippets to ensure that we'll be able to execute on our ideas.
+
+Overall, the project is coming along very nicely.
+
+
+### Moving
+
+Wednesday was the last day that I was physically in the YWeb program. I moved
+back to New York, and so I'll be remoting in for the rest of the program. It'll
+be tough to communicate and work the same way, being so far away, but I'm
+determined to make it work. The community at YWeb is so vibrant and strong so
+that definitely helps keep me together. For the latter half of the week, while
+the rest of the Cohort was going through Railsbridge and Madison+Ruby, I've been
+getting settled in and getting back into the swing of things.
+
+I'll have to make a few changes in terms of my schedule, and when/where I'll be
+working, but I think it'll work out.
+
+That's it for this week. See you next time!
