@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://akbarbmirza.github.io/blog/atom.xml" rel="self"/>
   <link href="http://akbarbmirza.github.io/blog/"/>
-  <updated>2015-08-17T08:42:46-05:00</updated>
+  <updated>2015-08-24T09:43:28-04:00</updated>
   <id>http://akbarbmirza.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,9 +14,74 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Week Ten]]></title>
+    <link href="http://akbarbmirza.github.io/blog/blog/2015/08/21/week-ten/"/>
+    <updated>2015-08-21T17:30:00-04:00</updated>
+    <id>http://akbarbmirza.github.io/blog/blog/2015/08/21/week-ten</id>
+    <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 10</h2>
+
+<p>It was an interesting week. The class was split up into two groups so that we
+could work on our group projects. On the first day, we chose our projects and
+started mocking them up. We also continued to work on our individual projects,
+which for me meant wrapping up my jQuery Plug-In as well as refining my
+<a href="https://github.com/akbarbmirza/advanced-selectors">sonic-selectors</a> project.
+This week was also a chance for me to wrap up loose ends before I moved back to
+New York, and then getting settled once I made it.</p>
+
+<h3>Group Capstone</h3>
+
+<p>Last week, we submitted our votes for who the team captains would be for our
+group project. On Monday, we were told the results. The team captains were Kevin
+Fahy and Akbar Mirza (me). It was exciting to be chosen, but Kevin and I were
+both a little sad that we weren&rsquo;t able to work together on the group capstone.
+After choosing our teams, we started to figure out what we&rsquo;re going to work on.
+My group will be working on a fleshed out choose-your-own-adventure experience
+for the web. We&rsquo;re hoping to have beautiful illustrations, animations, and other
+media elements like sound to make the experience more immersive.</p>
+
+<p>We&rsquo;ve split up the project into a few things:</p>
+
+<ul>
+<li>Story (the story that the user will be going through, as well as the different
+options that they&rsquo;ll have available to them).</li>
+<li>Backgrounds (to set the stage and part of the visual design)</li>
+<li>Sprites (for the characters that will be involved)</li>
+<li>Frontend Logic (to glue the content together and make it live on the web)</li>
+</ul>
+
+
+<p>During the first week, we&rsquo;ve been working a lot on fleshing out the story and
+the basic foundation of the web app. Our talented writers have gotten us very
+far into the story phase and we are getting closer to finishing the story
+writing phase.</p>
+
+<p>I&rsquo;ve been working with <a href="http://chriscoyier.net/">Chris Coyier</a> to mock up what
+the actual web app will look like as well as writing a couple of proof of
+concept code snippets to ensure that we&rsquo;ll be able to execute on our ideas.</p>
+
+<p>Overall, the project is coming along very nicely.</p>
+
+<h3>Moving</h3>
+
+<p>Wednesday was the last day that I was physically in the YWeb program. I moved
+back to New York, and so I&rsquo;ll be remoting in for the rest of the program. It&rsquo;ll
+be tough to communicate and work the same way, being so far away, but I&rsquo;m
+determined to make it work. The community at YWeb is so vibrant and strong so
+that definitely helps keep me together. For the latter half of the week, while
+the rest of the Cohort was going through Railsbridge and Madison+Ruby, I&rsquo;ve been
+getting settled in and getting back into the swing of things.</p>
+
+<p>I&rsquo;ll have to make a few changes in terms of my schedule, and when/where I&rsquo;ll be
+working, but I think it&rsquo;ll work out.</p>
+
+<p>That&rsquo;s it for this week. See you next time!</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Week Nine]]></title>
     <link href="http://akbarbmirza.github.io/blog/blog/2015/08/14/week-nine/"/>
-    <updated>2015-08-14T16:30:00-05:00</updated>
+    <updated>2015-08-14T17:30:00-04:00</updated>
     <id>http://akbarbmirza.github.io/blog/blog/2015/08/14/week-nine</id>
     <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 9</h2>
 
@@ -105,7 +170,7 @@ to them.</p>
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
     <link href="http://akbarbmirza.github.io/blog/blog/2015/08/10/first-post/"/>
-    <updated>2015-08-10T16:41:00-05:00</updated>
+    <updated>2015-08-10T17:41:00-04:00</updated>
     <id>http://akbarbmirza.github.io/blog/blog/2015/08/10/first-post</id>
     <content type="html"><![CDATA[<h2>Markdown GO!</h2>
 
@@ -116,7 +181,7 @@ to them.</p>
   <entry>
     <title type="html"><![CDATA[jQuery & Portfolio Work]]></title>
     <link href="http://akbarbmirza.github.io/blog/blog/2015/08/07/week-eight/"/>
-    <updated>2015-08-07T16:30:00-05:00</updated>
+    <updated>2015-08-07T17:30:00-04:00</updated>
     <id>http://akbarbmirza.github.io/blog/blog/2015/08/07/week-eight</id>
     <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 8</h2>
 
@@ -175,7 +240,7 @@ and see what other tech companies in Madison are like.</p>
   <entry>
     <title type="html"><![CDATA[CSS Zen Garden and Advanced Selectors]]></title>
     <link href="http://akbarbmirza.github.io/blog/blog/2015/07/31/week-seven/"/>
-    <updated>2015-07-31T16:30:00-05:00</updated>
+    <updated>2015-07-31T17:30:00-04:00</updated>
     <id>http://akbarbmirza.github.io/blog/blog/2015/07/31/week-seven</id>
     <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 7</h2>
 
@@ -222,7 +287,7 @@ awesome!</em>.</p>
   <entry>
     <title type="html"><![CDATA[Post-Drifty Visit and Code School Front End]]></title>
     <link href="http://akbarbmirza.github.io/blog/blog/2015/07/24/week-six/"/>
-    <updated>2015-07-24T16:30:00-05:00</updated>
+    <updated>2015-07-24T17:30:00-04:00</updated>
     <id>http://akbarbmirza.github.io/blog/blog/2015/07/24/week-six</id>
     <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 6</h2>
 
@@ -319,7 +384,7 @@ are.</p>
   <entry>
     <title type="html"><![CDATA[Post-Madison+UX and Chapter 03]]></title>
     <link href="http://akbarbmirza.github.io/blog/blog/2015/07/16/week-five/"/>
-    <updated>2015-07-16T16:30:00-05:00</updated>
+    <updated>2015-07-16T17:30:00-04:00</updated>
     <id>http://akbarbmirza.github.io/blog/blog/2015/07/16/week-five</id>
     <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 5</h2>
 
@@ -383,7 +448,7 @@ like in Madison.</p>
   <entry>
     <title type="html"><![CDATA[The Basics of Design and Madison+UX Prep]]></title>
     <link href="http://akbarbmirza.github.io/blog/blog/2015/07/09/week-four/"/>
-    <updated>2015-07-09T16:30:00-05:00</updated>
+    <updated>2015-07-09T17:30:00-04:00</updated>
     <id>http://akbarbmirza.github.io/blog/blog/2015/07/09/week-four</id>
     <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 4</h2>
 
@@ -482,7 +547,7 @@ order of 10. When I finally got the result, I was so satisfied.</p>
   <entry>
     <title type="html"><![CDATA[The JavaScript Road Trip]]></title>
     <link href="http://akbarbmirza.github.io/blog/blog/2015/07/03/week-three/"/>
-    <updated>2015-07-03T16:30:00-05:00</updated>
+    <updated>2015-07-03T17:30:00-04:00</updated>
     <id>http://akbarbmirza.github.io/blog/blog/2015/07/03/week-three</id>
     <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 3</h2>
 
@@ -520,7 +585,7 @@ that taught us a lot and helped improve some of our teamwork.</p>
   <entry>
     <title type="html"><![CDATA[Week Two]]></title>
     <link href="http://akbarbmirza.github.io/blog/blog/2015/06/26/week-two/"/>
-    <updated>2015-06-26T16:30:00-05:00</updated>
+    <updated>2015-06-26T17:30:00-04:00</updated>
     <id>http://akbarbmirza.github.io/blog/blog/2015/06/26/week-two</id>
     <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 2</h2>
 
@@ -573,7 +638,7 @@ Self: Visit the Dream Bank!</p>
   <entry>
     <title type="html"><![CDATA[Welcome to My Blog]]></title>
     <link href="http://akbarbmirza.github.io/blog/blog/2015/06/19/welcome-to-my-blog/"/>
-    <updated>2015-06-19T16:30:00-05:00</updated>
+    <updated>2015-06-19T17:30:00-04:00</updated>
     <id>http://akbarbmirza.github.io/blog/blog/2015/06/19/welcome-to-my-blog</id>
     <content type="html"><![CDATA[<h2>YWeb, Cohort 2, Week 1</h2>
 
